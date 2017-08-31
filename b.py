@@ -19,3 +19,7 @@ def newton_method(a, eps):
     
 a , i = newton_method(1.0, 0.0001)
 print("解:",a ,"(計算回数:", i+1, ")") # 解: 2.00000... (計算回数: 5 )
+print a.is_leap_year(2000)
+print a.is_leap_year(2001)
+print a.is_leap_year(2004)
+print a.is_leap_year(2100)
