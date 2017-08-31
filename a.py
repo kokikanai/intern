@@ -6,6 +6,8 @@ def is_leap_year(year):
             return True
         elif year % 100 == 0:
             return False
+        else:
+            return True
     return False
 
 print is_leap_year(2000)
