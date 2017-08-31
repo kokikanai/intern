@@ -1,0 +1,48 @@
+Found a 2 line (9 tokens) duplication in the following files: 
+Starting at line 1 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c
+Starting at line 1 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a4.c
+
+if(i>j){
+    i = i/2;
+=====================================================================
+Found a 2 line (8 tokens) duplication in the following files: 
+Starting at line 1 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c
+Starting at line 1 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a5.c
+
+if(i>j){
+    j++;
+=====================================================================
+Found a 3 line (8 tokens) duplication in the following files: 
+Starting at line 2 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c
+Starting at line 3 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c
+
+    j++;
+    i = 1;
+}
+=====================================================================
+Found a 1 line (7 tokens) duplication in the following files: 
+Starting at line 1 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c
+Starting at line 1 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c
+Starting at line 1 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a4.c
+Starting at line 1 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a5.c
+
+if(i>j){
+=====================================================================
+Found a 3 line (6 tokens) duplication in the following files: 
+Starting at line 2 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c
+Starting at line 3 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c
+Starting at line 2 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a5.c
+
+    j++;
+    i = 1;
+}
+=====================================================================
+Found a 2 line (5 tokens) duplication in the following files: 
+Starting at line 3 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c
+Starting at line 4 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c
+Starting at line 2 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a4.c
+Starting at line 3 of C:\Users\koki.kanai\git\intern\intern\hoge\.\a5.c
+
+    i = 1;
+}
+

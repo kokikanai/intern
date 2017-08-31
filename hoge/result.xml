@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="2" tokens="9">
+      <file line="1" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c"/>
+      <file line="1" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a4.c"/>
+      <codefragment><![CDATA[if(i>j){
+    i = i/2;]]></codefragment>
+   </duplication>
+   <duplication lines="2" tokens="8">
+      <file line="1" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c"/>
+      <file line="1" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a5.c"/>
+      <codefragment><![CDATA[if(i>j){
+    j++;]]></codefragment>
+   </duplication>
+   <duplication lines="3" tokens="8">
+      <file line="2" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c"/>
+      <file line="3" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c"/>
+      <codefragment><![CDATA[    j++;
+    i = 1;
+}]]></codefragment>
+   </duplication>
+   <duplication lines="1" tokens="7">
+      <file line="1" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c"/>
+      <file line="1" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c"/>
+      <file line="1" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a4.c"/>
+      <file line="1" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a5.c"/>
+      <codefragment><![CDATA[if(i>j){]]></codefragment>
+   </duplication>
+   <duplication lines="3" tokens="6">
+      <file line="2" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c"/>
+      <file line="3" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c"/>
+      <file line="2" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a5.c"/>
+      <codefragment><![CDATA[    j++;
+    i = 1;
+}]]></codefragment>
+   </duplication>
+   <duplication lines="2" tokens="5">
+      <file line="3" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c"/>
+      <file line="4" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c"/>
+      <file line="2" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a4.c"/>
+      <file line="3" path="C:\Users\koki.kanai\git\intern\intern\hoge\.\a5.c"/>
+      <codefragment><![CDATA[    i = 1;
+}]]></codefragment>
+   </duplication>
+</pmd-cpd>

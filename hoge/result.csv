@@ -1,0 +1,8 @@
+lines,tokens,occurrences
+2,9,2,1,C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c,1,C:\Users\koki.kanai\git\intern\intern\hoge\.\a4.c
+2,8,2,1,C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c,1,C:\Users\koki.kanai\git\intern\intern\hoge\.\a5.c
+3,8,2,2,C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c,3,C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c
+1,7,4,1,C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c,1,C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c,1,C:\Users\koki.kanai\git\intern\intern\hoge\.\a4.c,1,C:\Users\koki.kanai\git\intern\intern\hoge\.\a5.c
+3,6,3,2,C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c,3,C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c,2,C:\Users\koki.kanai\git\intern\intern\hoge\.\a5.c
+2,5,4,3,C:\Users\koki.kanai\git\intern\intern\hoge\.\a2.c,4,C:\Users\koki.kanai\git\intern\intern\hoge\.\a3.c,2,C:\Users\koki.kanai\git\intern\intern\hoge\.\a4.c,3,C:\Users\koki.kanai\git\intern\intern\hoge\.\a5.c
+
