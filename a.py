@@ -6,5 +6,6 @@ class a:
             elif year % 400 == 0:
                 return True
         return False
+        
     print (is_leap_year(2004))
     print (is_leap_year(2100))
